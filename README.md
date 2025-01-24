@@ -139,8 +139,11 @@ Run the assistant.py script:
 python assistant.py
 
 ```
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project under the terms of the license.
 
 Authot :  back end 
 # Good luck . 
