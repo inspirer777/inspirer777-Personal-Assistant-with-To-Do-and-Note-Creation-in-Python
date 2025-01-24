@@ -41,3 +41,14 @@ mappings = {
     "exit": quit
 }
 ```
+Example Usage:
+- Create a Note:
+- You can dictate a note and it will be saved to a file.
+- Add a To-Do:
+- You can add tasks like "Buy groceries" to your to-do list.
+- View To-Do List:
+- The assistant will read out all tasks in your to-do list.
+Exit the Assistant:
+- Saying "exit" will shut down the assistant.
+Sample Code Snippet:
+
